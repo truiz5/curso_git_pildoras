@@ -8,7 +8,7 @@
 
 <?php
     
-$lado= 10;
+$lado= 15;
 $BLANCO="&nbsp";
 $a=1;
 if($lado>2 && $lado<=24){
